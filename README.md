@@ -3,6 +3,7 @@
 
 > **Documentation technique et règles de développement**  
 > **Dernière mise à jour** : Décembre 2025
+> https://github.com/MourchidRiham/smart-reg-watch.git
 
 ---
 
