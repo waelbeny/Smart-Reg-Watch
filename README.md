@@ -1,9 +1,9 @@
 # Smart-Reg-Watch
 # Smart Regulatory Watch Tool - Documentation Technique
-
+ **Git Du Projet** : https://github.com/MourchidRiham/smart-reg-watch.git
+ 
 > **Documentation technique et règles de développement**  
 > **Dernière mise à jour** : Décembre 2025
-> **Git Du Projet** : https://github.com/MourchidRiham/smart-reg-watch.git
 
 ---
 
