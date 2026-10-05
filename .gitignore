@@ -1,0 +1,62 @@
+# Python
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Data and logs
+data/
+downloads/
+Historique/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.json
+versions.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# Documents (if not meant to be version controlled)
+*.pdf
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.csv
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Assets (keep structure, ignore large files)
+assets/*.png
+assets/*.jpg
+assets/*.jpeg
+!assets/.gitkeep
